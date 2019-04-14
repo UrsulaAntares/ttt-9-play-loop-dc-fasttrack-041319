@@ -40,5 +40,7 @@ end
 
 # Define your play method below
 def play(board)
-  while play
+  count = 1
+  while count <= 9
+  count += 1
 end
